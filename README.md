@@ -1,7 +1,7 @@
 # 🎞️ Better Video Controls
 
 A powerful userscript toolkit that enhances video playback across *all* websites — including YouTube, embedded players, and more.  
-Made with ❤️ by [Senpi](https://github.com/codingsenpi).
+Made with ❤️ by [codingsenpi](https://www.codingsenpi.me).
 
 ---
 
